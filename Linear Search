@@ -1,4 +1,4 @@
-//AIM:-To perform linear search operation in DSA using C programming
+//AIM:- To perform Linear Search operation in DSA using C programming
 
 #include<stdio.h>
 #include<stdbool.h>
