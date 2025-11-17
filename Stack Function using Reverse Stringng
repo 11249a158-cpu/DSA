@@ -1,3 +1,5 @@
+//AIM:- To perform Stack Operations (Push,Pop,Exit) using Reverse String operation in DSA using C programming
+
 #include<stdio.h>
 #include<stdlib.h>
 int TOP=-1,MAX;
