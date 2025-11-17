@@ -1,3 +1,5 @@
+//AIM:-To perform Stack Operations(Push,Pop,Exit) in DSA using C programming
+
 #include<stdio.h>
 int main()
 {
