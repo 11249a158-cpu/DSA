@@ -1,3 +1,8 @@
+--->AIM:- Implementation of Best Fit Algorithm in Bin Packing
+
+
+--->PROGRAM:-
+
 #include <stdio.h>
 
 // Function to implement Best Fit bin packing
