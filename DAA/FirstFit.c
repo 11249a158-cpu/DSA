@@ -1,3 +1,8 @@
+--->AIM:-
+    
+
+--->PROGRAM:-
+    
 #include <stdio.h>
 
 // Function to implement First Fit bin packing
